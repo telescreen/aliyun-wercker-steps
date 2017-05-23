@@ -1,5 +1,5 @@
 name: aliyun-build-ecs-image
-version: 0.0.1
+version: 0.0.2
 description: Build an ECS image
 keywords:
   - aliyun
